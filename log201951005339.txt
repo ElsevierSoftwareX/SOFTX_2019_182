@@ -1,0 +1,13 @@
+done!
+Resizing data to have 1024 A-scans...done!
+done!
+Detecting retina boundaries...done! (707 outlier points)
+Warning: poor fit of retina boundaries detected (707 outlier points). Check for artifacts in the data.
+Flattening data...done!
+Loading classifier model...done!
+Calculating 3D features...done!
+Running data through boundary classifier...  4%  44%  84% ...done!
+Calculating final segmentation from votes...done!
+Smoothing results...done!
+Saving results...done! Saved to file D:\kafieh\AMPAO\VOL_heidelberg_example\VOL_heidelberg_example_result
+
